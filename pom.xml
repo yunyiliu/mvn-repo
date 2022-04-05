@@ -17,9 +17,9 @@
 
     <repositories>
         <repository>
-            <id>github-test-repo</id>
-            <name>The Maven Repository on Github</name>
-            <url>https://github.com/yunyiliu/TestMaven</url>
+            <id>github-repo</id>
+            <name>mvc-repo</name>
+            <url>https://github.com/yunyiliu/mvn-repo</url>
         </repository>
     </repositories>
 
